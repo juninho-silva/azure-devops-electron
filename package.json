@@ -1,0 +1,19 @@
+{
+  "name": "azure-devops-electron",
+  "version": "1.0.0",
+  "description": "Portal do Azure DevOps",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["electron", "html5", "css3", "javascript", "azure devops"],
+  "author": "juninho.silva.goncalves@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.1",
+    "electron-reloader": "^1.0.1"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0"
+  }
+}

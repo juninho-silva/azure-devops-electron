@@ -1,0 +1,29 @@
+html, body, #content {
+  height: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+#progressBarCircle {
+  margin: 20px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+	top: 0; 
+  bottom: 0;
+	left: 0; 
+  right: 0;
+	margin: auto;
+}
+img {
+  display: block;
+  position: absolute;
+  z-index: 1;
+  top: 0; 
+  bottom: 0;
+	left: 0; 
+  right: 0;
+  margin: auto;
+  width: 35px;
+  height: 35px;
+}
